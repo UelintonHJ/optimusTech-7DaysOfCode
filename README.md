@@ -1,4 +1,4 @@
-# ![OptimusTech](https://optimus-tech-7-days-of-code-9u39.vercel.app/) 🚀
+# [OptimusTech](https://optimus-tech-7-days-of-code-9u39.vercel.app/) 🚀
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@ Foi um dos meus **primeiros projetos de front-end**, onde pude aprender conceito
 
 ## 📸 Preview
 
-![preview](assets/images/optimusTech-gif.mp4)
+![preview](assets/images/optimusTech-gif.gif)
 
 ---
 
