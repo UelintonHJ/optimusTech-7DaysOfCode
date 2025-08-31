@@ -18,7 +18,7 @@ Foi um dos meus **primeiros projetos de front-end**, onde pude aprender conceito
 
 ## 📸 Preview
 
-[preview](assets/images/imgJobInterview.png)
+![preview](assets/images/imgJobInterview.png)
 
 ---
 
