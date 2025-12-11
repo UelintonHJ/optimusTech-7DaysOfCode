@@ -6,13 +6,17 @@
 
 ---
 
-## 🎯 Sobre o projeto
+## 🎯 Sobre Projeto
 
-OptimusTech é um **projeto desenvolvido durante o 7 Days of Code da [Alura](https://www.alura.com.br/)**, onde o objetivo é construir um site em **7 dias** seguindo e-mails com instruções diárias.
+**OptimusTech** é um site institucional desenvolvido durante o **7 Days of Code da [Alura](https://www.alura.com.br/)**, onde a proposta é criar um projeto em **7 dias**, seguindo instruções e desafios enviados por e-mail.
 
-Este projeto é **um site estático**, feito com HTML, CSS e uma pequena pitada de JavaScript aplicada por mim para melhorar a interação do **placeholder** do formulário de e-mail.
+Este foi um dos meus **primeiros projetos front-end**, e nele pratiquei:
 
-Foi um dos meus **primeiros projetos de front-end**, onde pude aprender conceitos de estruturação, layout e estilização de sites modernos. 
+- Estrutura de páginas HTML semânticas
+- Construção de layouts modernos com **CSS3**, **Flexbox e Grid**
+- Pequenas interações com **JavaScript** (como o placeholder dinâmico no formulário)
+
+O resultado é um site estático com foco em **design, responsividade e boa organização de código**. 
 
 ---
 
@@ -24,21 +28,22 @@ Foi um dos meus **primeiros projetos de front-end**, onde pude aprender conceito
 
 ## 🛠 Tecnologias Utilizadas
 
-- HTML5
-- CSS3 (Flexbox e Grid)
-- JavaScript (interação do placeholder)
+- **HTML5**
+- **CSS3** (Flexbox e Grid)
+- **JavaScript** 
 
 ---
 
 ##  📝 Funcionalidades
 
 - Menu de navegação completo
-- Seções de apresentação, métricas, vagas abertas e depoimentos
-- Footer com formulário de inscrição de e-mail
-- Placeholder interativo no formulário (feito com JavaScript)
+- Seções de apresentação, métricas, vagas e depoimentos
+- Footer com formulário de inscrição
+- **Placeholder interativo** no formulário (JS)
 
 ---
 
 ## ⚡ Observações
 
-Este é um projeto **de aprendizado**, portanto não possui funcionalidades de back-end ou integração real de cadastro. O foco foi **aprender a construir e estilizar um site moderno**, com atenção aos detalhes de design e UX.
+Este é um projeto **exclusivamente educacional** - não possui integração com back-end ou banco de dados.
+O foco principal foi o aprendizado e a prática de **boas práticas visuais e estruturais**.
